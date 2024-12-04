@@ -102,3 +102,4 @@ C:\Users\SE68087\Desktop\PatriciaAprendiz\VisualStudio\Biblioteca\WebApplication
 C:\Users\SE68087\Desktop\PatriciaAprendiz\VisualStudio\Biblioteca\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\SE68087\Desktop\PatriciaAprendiz\VisualStudio\Biblioteca\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\SE68087\Desktop\PatriciaAprendiz\VisualStudio\Biblioteca\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\SE68087\Desktop\PatriciaAprendiz\VisualStudio\Biblioteca\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json

@@ -1,0 +1,22 @@
+<h2>Lista de Livros</h2>
+<form method="post" asp-action="Adicionar">
+    <input type="text" name="Titulo" placeholder="Título" required />
+    <input type="text" name="Autor" placeholder="Autor" required />
+    <button type="submit">Adicionar</button>
+</form>
+
+<table>
+    <tr>
+        <th>Título</th>
+        <th>Autor</th>
+        <th>Disponível</th>
+    </tr>
+    @foreach (var livro in Model)
+    {
+        <tr>
+            <td>@livro.Titulo</td>
+            <td>@livro.Autor</td>
+            <td>@(livro.Disponivel ? "Sim" : "Não")</td>
+        </tr>
+    }
+</table>
